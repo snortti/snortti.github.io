@@ -29,7 +29,7 @@ PERSONALIZE BEFORE PUBLISHING
 2. Check the About section and university wording for accuracy.
 3. Check the project descriptions against what you actually built.
 4. Add your GitHub and LinkedIn URLs once ready. Do not invent or publish placeholder URLs.
-5. The contact email currently uses supportreachio@gmail.com as the contact address. Change it if you want a separate personal email.
+5. The contact email is satiahjames18@gmail.com. Update it in index.html if your public contact address changes.
 6. Add a downloadable CV only after placing your final PDF in the project folder and linking it from the page.
 7. Add real project demo/source-code links only when they are publicly accessible.
 
